@@ -17,13 +17,10 @@ import com.google.android.gms.common.SignInButton;
 import com.google.android.gms.common.api.CommonStatusCodes;
 import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.common.api.ResultCallback;
-import com.google.android.gms.plus.Moments;
-import com.google.android.gms.plus.Moments.LoadMomentsResult;
 import com.google.android.gms.plus.People;
 import com.google.android.gms.plus.People.LoadPeopleResult;
 import com.google.android.gms.plus.Plus;
 import com.google.android.gms.plus.PlusShare;
-import com.google.android.gms.plus.model.moments.MomentBuffer;
 import com.google.android.gms.plus.model.people.PersonBuffer;
 
 public class MainActivity extends Activity {
